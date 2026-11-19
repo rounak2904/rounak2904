@@ -10,7 +10,7 @@
   <a href="https://instagram.com/_rounak._.29">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rounak-chakraborty-b55378369/">
+  <a href="https://www.linkedin.com/in/rounak2904">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://rounak-portfolio-cms.pages.dev/">   
